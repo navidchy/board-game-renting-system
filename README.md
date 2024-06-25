@@ -1,6 +1,6 @@
 # Board Game Renting System
 
-Board Game Renting System developed for UTS Applications Programming course.
+Board Game Renting System developed using JavaFX and OOP
 
 ## Features
 - **Administrative Section**: 
